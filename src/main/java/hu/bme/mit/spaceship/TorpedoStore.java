@@ -27,7 +27,7 @@ public class TorpedoStore {
       }
     }
   }
-
+// Igy reuseable lett a kód
   private Random random = new Random();
 
   public boolean fire(int numberOfTorpedos){
